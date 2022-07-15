@@ -1,0 +1,460 @@
+body {
+    direction: rtl;
+    unicode-bidi: embed;
+}
+
+#breadcrumb-wrapper .pull-right {
+    float: left;
+}
+
+#breadcrumb-wrapper .pull-left {
+    float: right;
+}
+
+#breadcrumb-wrapper a {
+    display: inline-block;
+    padding: 0px 5px;
+}
+
+.lang_menu_wrapper {
+    float: left;
+    margin-left: 0 !important;
+}
+
+.lang_menu_wrapper a {
+    text-align: left;
+}
+
+.lang_menu_wrapper .pull-right {
+    float: left; 
+    margin-left: 0 !important;
+}
+
+.panel .logo-box {
+    float: right; 
+    margin-left: 0 !important;
+}
+
+#navigation .mylisting {
+    float: left !important;
+}
+
+#navigation #nav-main {
+    float: right;
+}
+
+.navbar .nav>li {
+    float: right !important;
+}
+
+.dropdown-toggle .caret {
+    margin-right: 3px;
+}
+
+.carousel-indicators {
+    left: 15px;
+    right: inherit;
+}
+
+.main-circle-icon:after {
+    left: -8px;
+    right: inherit;
+    transform: rotate(180deg);
+}
+
+.main-circle-icon {
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.main-heading {
+    padding-right: 30px;
+}
+
+.properties-rows .filter form .control-group {
+    float: left;
+}
+
+.form-horizontal .control-label {
+    float: right;   
+}
+
+.form-horizontal .controls {
+    margin-right: 180px;
+    margin-left: 0;
+}
+
+.galcolumn,
+.galcolumn .item,
+.item .box-detail .pull-left,
+.form-horizontal .control-label {
+    float: right !important;   
+}
+
+.form-horizontal .control-label control-label {
+    text-align: left;
+}
+
+select {
+    padding-right: 25px;
+}
+
+.carousel-control {
+    direction: initial;  
+}
+
+.form-horizontal .control-label.options {
+    text-align: left;
+}
+
+.form-horizontal .control-group.options .controls {
+    vertical-align: top;
+    float: right;
+    margin-right: 0;
+}
+
+
+
+.item .box-detail .pull-left,
+.galcolumn,
+.control-group .text-left {
+    text-align: right; 
+}
+
+.search-conteiner button#search-save.btn i {
+    margin-right: 0;
+    margin-left: 3px;
+}
+
+#content .for_estate_banner {
+    left: inherit;
+    right: 0;
+}
+
+ #content .row-properties .item .featured-icon  {
+    right: inherit; 
+    left: 0;
+    transform-style: preserve-3d; 
+    transform: rotate3d(0,1,0,-180deg);
+    -webkit-transform: rotate3d(0,1,0,-180deg);
+    -o-transform: rotate3d(0,1,0,-180deg);
+    -moz-transform: rotate3d(0,1,0,-180deg);
+    -ms-transform: rotate3d(0,1,0,-180deg);
+}
+
+row-properties .galcolumn .purpose-badget {
+    left: 0;
+    right: inherit;
+}
+
+#content .row-properties .item .badget {
+    right: 5px;
+    bottom: -5px;
+    left: inherit;
+    transform:rotate(270deg);
+    -webkit-transform: rotate(270deg);
+    -o-transform:rotate(270deg);
+    -moz-transform: rotate(270deg);
+    -ms-transform: rotate(270deg);
+}
+
+.item .box-detail div {
+    text-align: right;
+}
+
+.pagination>li {
+    float: right;
+}
+
+.news .media .pull-left,
+#content .list-items .item .img-preview {
+    float: right;
+    margin-right: 0;
+    margin-left: 10px;
+}
+
+.news .media .btn-proper {
+    float: left;
+}
+
+.property_content_position .span2 {
+    float: right;
+}
+
+#footer-top .list-link li {
+    background: url('../images/right-arrow.png') no-repeat calc(100%) 3px;
+    padding-right: 25px;
+    padding-left: 0;
+}
+
+.main-heading.line-before {
+    padding-right: 0px;
+}
+
+.property-btn-box .pull-left,
+.widget-ratings .pull-left {
+    float: right
+}
+
+.sharing-buttons,
+.widget-ratings .pull-right {
+    float: left !important;
+}
+
+.widget-compare .text-left {
+    text-align: right;
+}
+
+.property-detail-amenities > li {
+    float: right  !important;
+}
+
+.media>.pull-left {
+    float: right !important;
+    padding-right: 0;
+    padding-left: 10px;
+}
+
+.media-list {
+    padding-right: 0;
+    padding-left: 40px;
+}
+
+.properties-small-list .property-small-picture {
+    float: right;
+}
+
+.form-horizontal .control-label {
+    float: right;
+    width: 160px;
+    padding-top: 5px;
+    text-align: left;
+    padding-left: 5px;
+}
+
+.agents-list-header .span9 {
+    float: right;
+}
+
+.agents-list-header .span3 {
+    float: left;
+}
+
+.files-list li {
+    float: right;
+}
+
+.widget-center-agents .left-hight-agent {
+    float: right;
+}
+
+.widget-center-agents .right-hight-agent .desc-agent-preview {
+    border-left: 0;
+    border-right: 1px solid #858585;
+    padding-left: 0;
+    padding-right: 30px;
+}
+
+.widget-center-agents .right-hight-agent {
+    float: left;
+}
+
+.agents-list-header:before,
+.widget-center-agents .line-before:before {
+    content: "";
+    position: absolute;
+    width: 30px;
+    border-bottom: 1px solid #858585;
+    bottom: -1px;
+    right: -30px;
+    left: -30px;
+}
+
+.line-after:before {
+    content: none;
+}
+
+.agents-list-header .span3 {
+        margin-left: 0;
+    text-align: left;
+}
+
+.box-panel .pull-right {
+    float: left;
+}
+
+.box-panel .pull-left {
+    float: right;
+}
+
+#content .new-list .item .title-heading {
+    margin-left: 0;
+    margin-right: -10px;
+}
+
+#content .new-list .item .title-heading:before {
+    content: "";
+    position: absolute;
+    left: inherit;
+    right: -10px;
+    bottom: -10px;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-left: 10px solid #5C5C5C;
+}
+
+ul {
+    padding: 0;
+    margin: 0 25px 10px 0;
+}
+
+form.box .span6 {
+    float: right;
+    margin-left: 0%;
+    margin-right: 2.564102564102564%;
+}
+
+form.box .span6:first-child {
+    margin-left: 0%;
+    margin-right: 0;
+}
+
+/* user pages  */
+
+.radio input[type="radio"], .radio-inline input[type="radio"], .checkbox input[type="checkbox"], .checkbox-inline input[type="checkbox"] {
+    margin-right: -20px;
+}
+
+.control-group label {
+    margin-right: 20px;
+}
+
+
+
+.login-form .control-group:last-child .controls a {
+    margin-right: 10px;
+}
+
+.btn .caret {
+    margin-right: 3px;
+}
+
+.form-estate .form-group {
+    margin-right: -10px !important;
+    margin-left: -10px !important;
+}
+
+.form-estate  .col-lg-3.control-label {
+    width: 22%;
+    text-align: right;
+}
+
+.fileinput-button {
+    float: right !important;
+    margin-right: 0 !important;
+}
+
+.form-estate  .col-lg-9.controls {
+    padding-right: 10px;
+}
+
+.control-group.TREE-GENERATOR .field-row {
+    margin-right: -12px;
+}
+
+h5 span.checkbox-visible {
+    float: left;
+}
+
+.files-list-u li {
+    float: right !important;
+}
+
+.fileupload-buttonbar .cancel {
+    margin-right: 5px;
+}
+
+.fileupload-loading {
+    position: absolute;
+    left: 0;
+}
+
+
+.fileupload-buttonbar:after {
+    content: '';
+    clear: both;
+    display: table;
+}
+
+.fileupload-buttonbar .span7 {
+    padding-left: 0px;
+    float: right;
+    width: inherit !important;
+}
+
+.fileupload-buttonbar .fileupload-progress {
+    float: left;
+    height: 15px;
+    margin-left: 0 !important;
+}
+
+.property_content form .control-group label.control-label {
+    float: right;
+    padding: 0px 0;
+    padding-left: 10px;
+    line-height: 30px;
+}
+
+.property_content form.form-horizontal .controls {
+    margin-right: 190px;
+    margin-left: 0;
+}
+
+.tabbable .nav {
+    padding-right: 0;
+}
+
+.form-estate .tabbable .pull-right {
+    float: left !important;
+}
+
+.form-estate .tabbable .lang  {
+    float: right;
+}
+
+.form-estate .tabbable .lang  a {
+    margin-right: 0;
+}
+
+.table th {
+    text-align:right;
+}
+
+.property_content .widget-controls .pull-right {
+    float: left !important;
+}
+
+.checkbox label {
+    text-align: right;
+    width: auto;
+    display: inline-block;
+}
+
+table td {
+    text-align: right !important;
+}
+
+#main select.form-control {
+    width: 220px;
+    float: right;
+}
+
+#main input {
+    height: auto;
+}
+
+#main td a i.icon-search {
+    margin-left: 5px;
+}
+/* end user pages  */

@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+			    http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+	<loc>http://realinmo.com/index.php/en/6/home</loc>
+	<lastmod>2013-12-29T12:06:05+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/6/home"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/6/slider_and_search</loc>
+	<lastmod>2013-12-29T12:06:05+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/6/slider_and_search"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/152</loc>
+	<lastmod>2014-04-06T16:21:32+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/152"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/152</loc>
+	<lastmod>2014-04-06T16:21:32+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/152"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/155/test_news_category</loc>
+	<lastmod>2014-04-06T20:13:51+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/155/test_news_category"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/155/test_news_category</loc>
+	<lastmod>2014-04-06T20:13:51+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/155/test_news_category"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/159/test_news_category_2</loc>
+	<lastmod>2014-04-15T18:37:33+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/159/test_news_category_2"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/159/test_news_category_2</loc>
+	<lastmod>2014-04-15T18:37:33+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/159/test_news_category_2"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/151</loc>
+	<lastmod>2014-04-06T16:07:03+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/151"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/151</loc>
+	<lastmod>2014-04-06T16:07:03+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/151"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/178/map_on_top</loc>
+	<lastmod>2017-06-03T20:33:58+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/178/map_on_top"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/178/map_on_top</loc>
+	<lastmod>2017-06-03T20:33:58+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/178/map_on_top"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/174/map_by_side</loc>
+	<lastmod>2017-05-18T14:22:13+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/174/map_by_side"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/174/map_by_side</loc>
+	<lastmod>2017-05-18T14:22:13+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/174/map_by_side"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/175/geo_svg_map</loc>
+	<lastmod>2017-05-18T14:23:11+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/175/geo_svg_map"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/175/geo_svg_map</loc>
+	<lastmod>2017-05-18T14:23:11+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/175/geo_svg_map"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/176/fullscreen</loc>
+	<lastmod>2017-05-18T14:30:47+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/176/fullscreen"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/176/pantalla_completa</loc>
+	<lastmod>2017-05-18T14:30:47+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/176/pantalla_completa"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/177/demo_maps</loc>
+	<lastmod>2017-05-18T14:31:16+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/177/demo_maps"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/177/demo_maps</loc>
+	<lastmod>2017-05-18T14:31:16+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/177/demo_maps"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/147/featured</loc>
+	<lastmod>2014-04-05T10:33:02+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/147/featured"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/147/premium</loc>
+	<lastmod>2014-04-05T10:33:02+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/147/premium"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/5/about_us</loc>
+	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/5/about_us"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/5/sobre_nosotros</loc>
+	<lastmod>2013-12-12T16:01:35+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/5/sobre_nosotros"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/142/blog_page</loc>
+	<lastmod>2014-01-04T22:19:49+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/142/blog_page"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/142/pagina_blog</loc>
+	<lastmod>2014-01-04T22:19:49+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/142/pagina_blog"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/3/rent</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/3/rent"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/3/alquiler</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/3/alquiler"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/2/sale</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/2/sale"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/2/promociones</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/2/promociones"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/154/test_news</loc>
+	<lastmod>2014-04-06T20:01:32+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/154/test_news"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/154/test_news</loc>
+	<lastmod>2014-04-06T20:01:32+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/154/test_news"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/144/sale_and_rent</loc>
+	<lastmod>2014-02-20T16:16:30+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/144/sale_and_rent"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/144/venta_y_alquiler</loc>
+	<lastmod>2014-02-20T16:16:30+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/144/venta_y_alquiler"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/146/google_link</loc>
+	<lastmod>2014-03-15T18:18:13+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/146/google_link"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/146/enlace_google</loc>
+	<lastmod>2014-03-15T18:18:13+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/146/enlace_google"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/157/articles</loc>
+	<lastmod>2014-04-08T22:08:34+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/157/articles"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/157/articulos</loc>
+	<lastmod>2014-04-08T22:08:34+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/157/articulos"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/158/test_article_2</loc>
+	<lastmod>2014-04-08T22:30:56+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/158/test_article_2"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/158/test_article_2</loc>
+	<lastmod>2014-04-08T22:30:56+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/158/test_article_2"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/156/article_test</loc>
+	<lastmod>2014-04-08T17:59:20+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/156/article_test"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/156/article_test</loc>
+	<lastmod>2014-04-08T17:59:20+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/156/article_test"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/160/showroom</loc>
+	<lastmod>2014-04-27T20:45:54+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/160/showroom"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/160/showroom</loc>
+	<lastmod>2014-04-27T20:45:54+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/160/showroom"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/161/ask_expert</loc>
+	<lastmod>2014-05-10T13:27:50+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/161/ask_expert"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/161/pregunta_al_experto</loc>
+	<lastmod>2014-05-10T13:27:50+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/161/pregunta_al_experto"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/173/treefield_sitemap</loc>
+	<lastmod>2015-01-20T18:56:43+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/173/treefield_sitemap"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/173/treefield_sitemap</loc>
+	<lastmod>2015-01-20T18:56:43+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/173/treefield_sitemap"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/en/4/contact</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="esp"
+        href="http://realinmo.com/index.php/esp/4/contact"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/esp/4/contactanos</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+    <xhtml:link
+        rel="alternate"
+        hreflang="en"
+        href="http://realinmo.com/index.php/en/4/contactanos"
+    />
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/14/en/black_glass_house</loc>
+	<lastmod>2015-11-18T16:03:37+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/14/esp/black_glass_house</loc>
+	<lastmod>2015-11-18T16:03:37+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/12/en/retro_house</loc>
+	<lastmod>2015-10-23T20:36:26+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/12/esp/retro_house</loc>
+	<lastmod>2015-10-23T20:36:26+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/8/en/ozalj_apartment</loc>
+	<lastmod>2016-02-10T19:01:06+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/8/esp/ozalj_apartment</loc>
+	<lastmod>2016-02-10T19:01:06+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/30/en/bjelovar_estate</loc>
+	<lastmod>2016-02-04T19:04:10+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/30/esp/bjelovar_estate</loc>
+	<lastmod>2016-02-04T19:04:10+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/19/en/retro_old</loc>
+	<lastmod>2016-02-10T19:46:55+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/19/esp/retro_old</loc>
+	<lastmod>2016-02-10T19:46:55+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/18/en/small_beauty</loc>
+	<lastmod>2016-04-10T12:21:05+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/18/esp/small_beauty</loc>
+	<lastmod>2016-04-10T12:21:05+02:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/17/en/classic_american</loc>
+	<lastmod>2014-12-28T18:59:42+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/17/esp/classic_american</loc>
+	<lastmod>2014-12-28T18:59:42+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/16/en/fear_wood</loc>
+	<lastmod>2016-02-10T19:51:06+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/16/esp/fear_wood</loc>
+	<lastmod>2016-02-10T19:51:06+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/15/en/round_towers</loc>
+	<lastmod>2015-02-17T14:47:57+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/15/esp/round_towers</loc>
+	<lastmod>2015-02-17T14:47:57+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/13/en/yellow_wood</loc>
+	<lastmod>2014-12-28T19:01:39+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/13/esp/yellow_wood</loc>
+	<lastmod>2014-12-28T19:01:39+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/11/en/sky_apartment</loc>
+	<lastmod>2014-12-28T19:00:31+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/11/esp/sky_apartment</loc>
+	<lastmod>2014-12-28T19:00:31+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/10/en/lux_apartment</loc>
+	<lastmod>2014-12-28T19:00:41+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/10/esp/lux_apartment</loc>
+	<lastmod>2014-12-28T19:00:41+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/9/en/jezero_restaurant</loc>
+	<lastmod>2015-12-01T19:37:22+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/9/esp/jezero_restaurant</loc>
+	<lastmod>2015-12-01T19:37:22+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/7/en/spa_bliznec</loc>
+	<lastmod>2014-12-28T19:01:06+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/property/7/esp/spa_bliznec</loc>
+	<lastmod>2014-12-28T19:01:06+01:00</lastmod>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/showroom/4/en</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/showroom/4/esp</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/showroom/5/en</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/showroom/5/esp</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/showroom/6/en</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://realinmo.com/index.php/showroom/6/esp</loc>
+	<changefreq>monthly</changefreq>
+	<priority>0.5</priority>
+</url>
+</urlset>
