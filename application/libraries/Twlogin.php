@@ -19,7 +19,7 @@ class Twlogin extends TwitterOAuth {
         return parent::__construct($this->consumerKey, $this->consumerSecret, $oauthToken,  $oauthTokenSecret);
     }
     
-    public function getRequestToken(){
+    public function oauth(){
         return parent::getRequestToken($this->redirectURL);
     }
     

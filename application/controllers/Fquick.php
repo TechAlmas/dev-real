@@ -427,13 +427,16 @@ class Fquick extends Frontend_Controller
         $templatesDirectory = opendir(FCPATH.'templates/'.$this->data['settings_template'].'/components');
         // get each template
         $template_prefix = 'page_';
-        while($tempFile = readdir($templatesDirectory)) {
-            if ($tempFile != "." && $tempFile != ".." && strpos($tempFile, '.php') !== FALSE) {
-                if(substr_count($tempFile, $template_prefix) == 0)
-                {
-                    $template_output = $this->parser->parse($this->data['settings_template'].'/components/'.$tempFile, $this->data, TRUE);
-                    //$template_output = str_replace('assets/', base_url('templates/'.$this->data['settings_template']).'/assets/', $template_output);
-                    $this->data['template_'.substr($tempFile, 0, -4)] = $template_output;
+      
+        if ($templatesDirectory) {
+            while(($tempFile = readdir($templatesDirectory)) !== false) {
+                if ($tempFile != "." && $tempFile != ".." && strpos($tempFile, '.php') !== FALSE) {
+                    if(substr_count($tempFile, $template_prefix) == 0)
+                    {
+                        $template_output = $this->parser->parse($this->data['settings_template'].'/components/'.$tempFile, $this->data, TRUE);
+                        //$template_output = str_replace('assets/', base_url('templates/'.$this->data['settings_template']).'/assets/', $template_output);
+                        $this->data['template_'.substr($tempFile, 0, -4)] = $template_output;
+                    }
                 }
             }
         }

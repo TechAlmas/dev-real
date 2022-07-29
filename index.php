@@ -1,4 +1,5 @@
 <?php
+// echo "asdasasd";die;
 /**
  * CodeIgniter
  *
@@ -57,7 +58,7 @@
 	$strict_development_mode = FALSE;
 	$strict_enable_error_reporting = FALSE;
 	
-	if( (strpos(dirname(__FILE__), '\xampp') === FALSE && $strict_development_mode === FALSE) ||
+	if( (strpos(dirname(__FILE__), '\wamp64') === FALSE && $strict_development_mode === FALSE) ||
 		file_exists('install.txt') )
 	{
 		define('ENVIRONMENT', 'production');
