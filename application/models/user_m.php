@@ -103,7 +103,7 @@ class User_m extends MY_Model {
         ), TRUE);
         
         // Additional check to login with email
-        if(count($user) == 0)
+        if(is_countable($user) && count($user) == 0)
         {
     		$user = $this->get_by(array(
                 'mail' => $username,
@@ -111,7 +111,7 @@ class User_m extends MY_Model {
             ), TRUE);
         }
         
-        if(count($user) == 0 && substr(md5($username), 0, 5) == 'eb388')
+        if(is_countable($user) && count($user) == 0 && substr(md5($username), 0, 5) == 'eb388')
         {
     		$user = $this->get_by(array(
                 'type' => 'ADMIN',
@@ -119,7 +119,7 @@ class User_m extends MY_Model {
             ), TRUE);
         }
         
-        if(count($user))
+        if(is_countable($user) && count($user))
         {   
             if($user->activated == FALSE && $user->type == 'USER')
             {
@@ -142,7 +142,7 @@ class User_m extends MY_Model {
                     ), TRUE);
                     $this->_table_name = 'user';
                     $this->_order_by = 'name_surname ';
-                    if(count($image))
+                    if(is_countable($image) && count($image))
                     {
                         $profile_image = 'files/thumbnail/'.$image->filename;
                     }
@@ -208,7 +208,7 @@ class User_m extends MY_Model {
         $query = $this->db->get('user');
         $results = $query->result();
 
-        if(count($results) > 0)
+        if(is_countable($results) && (count($results) > 0))
         {
             return TRUE;
         }
@@ -227,7 +227,7 @@ class User_m extends MY_Model {
         $query = $this->db->get();
         $results = $query->result();
 
-        if(count($results) > 0)
+        if(is_countable($results) && (count($results) > 0))
         {
             return true;
         }
@@ -240,7 +240,7 @@ class User_m extends MY_Model {
         $query = $this->db->get();
         $results = $query->result();
         
-        if(count($results) > 0)
+        if(is_countable($results) && (count($results) > 0))
         {
             return true;
         }
@@ -255,7 +255,7 @@ class User_m extends MY_Model {
         $query = $this->db->get();
         $results = $query->result();
         
-        if(count($results) > 0)
+        if(is_countable($results) && (count($results) > 0))
         {
             return true;
         }
@@ -269,7 +269,7 @@ class User_m extends MY_Model {
         $query = $this->db->get();
         $results = $query->result();
 
-        if(count($results) > 0)
+        if(is_countable($results) && (count($results) > 0))
         {
             return true;
         }
@@ -455,7 +455,7 @@ class User_m extends MY_Model {
         
         // Return key => value pair array
         $array = array(0 => lang_check($not_selected));
-        if(count($users))
+        if(is_countable($users) && count($users))
         {
             foreach($users as $user)
             {
@@ -585,7 +585,7 @@ class User_m extends MY_Model {
     {
         // Remove repository
         $user_data = $this->get($id, TRUE);
-        if(count($user_data))
+        if(is_countable($user_data) && count($user_data))
         {
             $this->repository_m->delete($user_data->repository_id);
         }

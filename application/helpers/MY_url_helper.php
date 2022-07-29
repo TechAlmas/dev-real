@@ -21,7 +21,7 @@ if (! function_exists('site_url_nosuff'))
 
 if (! function_exists('site_url_q'))
 {
-	function site_url_q($uri = '', $q)
+	function site_url_q($q,$uri = '')
 	{
 		$CI =& get_instance();
         

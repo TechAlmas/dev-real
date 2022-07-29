@@ -2714,13 +2714,16 @@ class Frontend extends Frontend_Controller
         $templatesDirectory = opendir(FCPATH.'templates/'.$this->data['settings_template'].'/components');
         // get each template
         $template_prefix = 'page_';
-        while($tempFile = readdir($templatesDirectory)) {
-            if ($tempFile != "." && $tempFile != ".." && strpos($tempFile, '.php') !== FALSE) {
-                if(substr_count($tempFile, $template_prefix) == 0)
-                {
-                    $template_output = $this->parser->parse($this->data['settings_template'].'/components/'.$tempFile, $this->data, TRUE);
-                    //$template_output = str_replace('assets/', base_url('templates/'.$this->data['settings_template']).'/assets/', $template_output);
-                    $this->data['template_'.substr($tempFile, 0, -4)] = $template_output;
+       
+        if ($templatesDirectory) {
+            while(($tempFile = readdir($templatesDirectory)) !== false) {
+                if ($tempFile != "." && $tempFile != ".." && strpos($tempFile, '.php') !== FALSE) {
+                    if(substr_count($tempFile, $template_prefix) == 0)
+                    {
+                        $template_output = $this->parser->parse($this->data['settings_template'].'/components/'.$tempFile, $this->data, TRUE);
+                        //$template_output = str_replace('assets/', base_url('templates/'.$this->data['settings_template']).'/assets/', $template_output);
+                        $this->data['template_'.substr($tempFile, 0, -4)] = $template_output;
+                    }
                 }
             }
         }
@@ -3731,7 +3734,7 @@ class Frontend extends Frontend_Controller
                     $estate['option_chlimit_'.$key1] = character_limiter(strip_tags($row1), 80);
                     $estate['option_icon_'.$key1] = '';
 
-                    if(!empty($row1))
+                    if(!empty($row1) && is_countable($row1))
                     {
                         $estate['has_option_'.$key1][] = array('count'=>count($row1));
                         
@@ -3919,7 +3922,8 @@ class Frontend extends Frontend_Controller
     }
     
 	public function index ()
-	{
+	{ 
+        // echo "<pre>"; print_r($this->data);die;
         $lang_id = $this->data['lang_id'];
         $this->_page_offline();
         // Fetch all files by repository_id
@@ -4921,13 +4925,15 @@ class Frontend extends Frontend_Controller
         $templatesDirectory = opendir(FCPATH.'templates/'.$this->data['settings_template'].'/components');
         // get each template
         $template_prefix = 'page_';
-        while($tempFile = readdir($templatesDirectory)) {
-            if ($tempFile != "." && $tempFile != ".." && strpos($tempFile, '.php') !== FALSE) {
-                if(substr_count($tempFile, $template_prefix) == 0)
-                {
-                    $template_output = $this->parser->parse($this->data['settings_template'].'/components/'.$tempFile, $this->data, TRUE);
-                    //$template_output = str_replace('assets/', base_url('templates/'.$this->data['settings_template']).'/assets/', $template_output);
-                    $this->data['template_'.substr($tempFile, 0, -4)] = $template_output;
+        if ($templatesDirectory) {
+            while(($tempFile = readdir($templatesDirectory)) !== false) {
+                if ($tempFile != "." && $tempFile != ".." && strpos($tempFile, '.php') !== FALSE) {
+                    if(substr_count($tempFile, $template_prefix) == 0)
+                    {
+                        $template_output = $this->parser->parse($this->data['settings_template'].'/components/'.$tempFile, $this->data, TRUE);
+                        //$template_output = str_replace('assets/', base_url('templates/'.$this->data['settings_template']).'/assets/', $template_output);
+                        $this->data['template_'.substr($tempFile, 0, -4)] = $template_output;
+                    }
                 }
             }
         }
@@ -4949,7 +4955,9 @@ class Frontend extends Frontend_Controller
             $this->data['widget_preview_file'] = $this->uri->segment(3);
         }
         // print_r($this->data['settings_template'].'/'.$this->temp_data['page']->template.'.php');die;
-        $output = $this->parser->parse($this->data['settings_template'].'/'.$this->temp_data['page']->template.'.php', $this->data, TRUE);
+//    print_r($this->temp_data['page']->template);die;
+        // $output = $this->parser->parse($this->data['settings_template'].'/'.$this->temp_data['page']->template.'.php', $this->data, TRUE);
+        $output = $this->parser->parse($this->data['settings_template'].'/page_homepage-filters_2.php', $this->data, TRUE);
         $output =  str_replace('assets/', base_url('templates/'.$this->data['settings_template']).'/assets/', $output);
         
         if(config_item('litecache_enabled') === TRUE)

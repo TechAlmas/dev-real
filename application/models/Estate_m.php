@@ -493,7 +493,7 @@ class Estate_m extends MY_Model {
                     }
                 }
                 
-                else if(strrpos($key, 'search_option') > 0 && isset($fields['field_'.$option_id]) /*&& $option_id != 4*/ && $val != "" && $options[$option_id]->type != 'TREE')
+                else if(strrpos($key, 'search_option') > 0 && isset($fields['field_'.$option_id]) /*&& $option_id != 4*/ && $val != "" && !empty($options) && $options[$option_id]->type != 'TREE')
                 {
                     if(isset($fields['field_'.$option_id]))
                     {
@@ -1462,7 +1462,7 @@ class Estate_m extends MY_Model {
     
 
     
-    public function change_activated_properties($property_ids = array(), $is_activated)
+    public function change_activated_properties($property_ids = array(), $is_activated = NULL)
     {
         $data = array(
                        'is_activated' => $is_activated
